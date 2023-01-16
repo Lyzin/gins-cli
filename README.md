@@ -1,6 +1,6 @@
 ## 一、介绍
 
-> 本项目是通过参考[golang标准工程结构布局而来的一个快速创建[gin项目](https://gin-gonic.com/)的工具
+> 本项目是通过参考[golang标准工程结构布局](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)而来的一个快速创建[gin项目](https://gin-gonic.com/)的工具
 
 ### 1、功能
 
