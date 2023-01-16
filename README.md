@@ -1,7 +1,7 @@
 ## 一、介绍
 
-> 本项目是通过参考[golang标准工程结构布局](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)而来的一个快速创建go语言web项目的工具
-
+- 本项目是通过参考[golang标准工程结构布局](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)而来的一个快速创建go语言web项目的工具
+- 本项目的工具功能实现使用了[cobra](https://github.com/spf13/cobra)库
 ### 1、功能
 
 - 快速创建golang标准工程结构的web项目，并且底层是[gin框架](https://gin-gonic.com/)
