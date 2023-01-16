@@ -76,9 +76,9 @@ cd your-new-project-dir
 make run
 ```
 
-### 、查看效果
+### 5、查看项目效果
 
-> > 项目启动以后，浏览器打开[http://127.0.0.1:8090/swagger/index.html](http://127.0.0.1:8090/swagger/index.html)，可看到有一个的示例user-info接口，可以直接发起请求
+> 项目启动以后，浏览器打开[http://127.0.0.1:8090/swagger/index.html](http://127.0.0.1:8090/swagger/index.html)，可看到有一个的示例user-info接口，可以直接发起请求
 
 
 
