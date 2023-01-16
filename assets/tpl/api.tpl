@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"{{.ProjectName}}/global"
 	"{{.ProjectName}}/internal/service"
-    {{.ProjectName}}/pkg/zaplogger"
+    "{{.ProjectName}}/pkg/zaplogger"
 )
 
 // UserController 控制器

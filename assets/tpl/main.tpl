@@ -3,7 +3,14 @@ package main
 import (
     "fmt"
     "{{.ProjectName}}/internal/routers"
+    "{{.ProjectName}}/pkg/zaplogger"
 )
+
+func init() {
+	// 设置日志器
+	setUpZapLogger()
+
+}
 
 // @title {{.ProjectName}}项目
 // @version 1.0
@@ -21,4 +28,10 @@ func main() {
 	if serverErr != nil {
 		panic(fmt.Errorf("start server err:%v\n", serverErr))
 	}
+}
+
+func setUpZapLogger() {
+	// 初始化日志器
+	zaplogger.InitLogger()
+	defer zaplogger.SugarLogger.Sync()
 }
