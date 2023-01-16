@@ -18,7 +18,7 @@
 > - docs：文档集合
 > - global：全局变量
 > - internal：
-    >     - api：处理入参层
+>     - api：处理入参层
 >     - dao：数据访问层，所有与数据相关的操作都会在dao层，比如Mysql，Redis等
 >     - middleware：HTTP中间件
 >     - model：模型层，用于存放model对象
