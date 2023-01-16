@@ -1,10 +1,10 @@
 ## 一、介绍
 
-> 本项目是通过参考[golang标准工程结构布局](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)而来的一个快速创建[gin项目](https://gin-gonic.com/)的工具
+> 本项目是通过参考[golang标准工程结构布局](https://github.com/golang-standards/project-layout/blob/master/README_zh.md)而来的一个快速创建go语言web项目的工具
 
 ### 1、功能
 
-- 快速创建golang标准工程结构的web项目，并且底层是gin框架
+- 快速创建golang标准工程结构的web项目，并且底层是[gin框架](https://gin-gonic.com/)
 - 自定义的统一响应输出结构
 - 支持swag生成接口文档
 - 支持air包热加载
