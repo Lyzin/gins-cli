@@ -54,7 +54,7 @@ go install github.com/cosmtrek/air@latests
 ### 2、安装本工具
 
 ```bash
-go install github.com/Lyzin/gins-cli
+go install github.com/Lyzin/gins-cli@latest
 ```
 #### 2.1 查看本工具帮助信息
 
