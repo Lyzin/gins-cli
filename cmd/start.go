@@ -5,7 +5,7 @@ Copyright © 2023 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"gins_cli/actions"
+	"github.com/Lyzin/gins-cli/actions"
 	"github.com/spf13/cobra"
 )
 

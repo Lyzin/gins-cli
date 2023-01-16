@@ -10,7 +10,7 @@ package actions
 import (
 	"embed"
 	"fmt"
-	"gins_cli/utils"
+	"github.com/Lyzin/gins-cli/utils"
 	"os"
 	"os/exec"
 )

@@ -6,8 +6,8 @@ package main
 
 import (
 	"embed"
-	"gins_cli/actions"
-	"gins_cli/cmd"
+	"github.com/Lyzin/gins-cli/actions"
+	"github.com/Lyzin/gins-cli/cmd"
 )
 
 //go:embed assets/tpl

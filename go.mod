@@ -1,4 +1,4 @@
-module gins_cli
+module github.com/Lyzin/gins-cli
 
 go 1.17
 

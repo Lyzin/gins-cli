@@ -8,7 +8,7 @@
 package actions
 
 import (
-	"gins_cli/utils"
+	"github.com/Lyzin/gins-cli/utils"
 )
 
 // projectDirList 项目目录名
