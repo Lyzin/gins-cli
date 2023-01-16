@@ -55,6 +55,11 @@ go install github.com/cosmtrek/air@latests
 ```bash
 go install github.com/Lyzin/gins-cli
 ```
+#### 2.1 查看本工具帮助信息
+
+```bash
+gins-cli -h
+```
 
 ### 3、创建项目
 
